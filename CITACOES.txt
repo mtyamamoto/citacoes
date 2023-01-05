@@ -1,0 +1,10 @@
+Git
+git status - verificado estado dos arquivos
+git init - inicializa o git na pasta
+git add <nomedoarquivo> - inclui o arquivo a ser controlado pelo git
+git add . - pega todos os arquivos, pastas e subpastas
+
+clear - limpa a tela
+
+<obrigatório>
+[opcional]
